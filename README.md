@@ -43,12 +43,5 @@
 - Istogramma HSV
 - Local Texture Features: LBP(Local Binary Pattern), mean, std, skeweness, kurtosis, uniformity
 
-### Risultati Classificazione Forma (Quadrata, Rettangolare):
-![image](https://user-images.githubusercontent.com/30373288/219899896-9afec0b7-5994-48c7-9fd6-bb32f2e6513d.png)
-
-
-### Risultati Classificazione Cioccolatini (Ferrero Rocher, Ferrero Noir, Raffaello, Rigetto):
-![image](https://user-images.githubusercontent.com/30373288/219885407-3f5cbd66-7b74-4394-a6f4-6608391acfcb.png)
-
 ### Risultati Conforme/Non Conforme:
 ![image](https://user-images.githubusercontent.com/30373288/219898862-ec3c7af7-4713-4228-a95e-5acc81e19d0c.png)
