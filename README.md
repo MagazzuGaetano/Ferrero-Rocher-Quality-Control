@@ -39,7 +39,7 @@
 - 52 immagini train (33 conformi e 19 non conformi)
 - 12 immagini test (5 conformi e 7 non conformi)
 
-### New Features:
+### Features:
 - Istogramma HSV
 - Local Texture Features: LBP(Local Binary Pattern), mean, std, skeweness, kurtosis, uniformity
 
