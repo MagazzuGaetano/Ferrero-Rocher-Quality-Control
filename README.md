@@ -43,5 +43,5 @@
 - Istogramma HSV
 - Local Texture Features: LBP(Local Binary Pattern), mean, std, skeweness, kurtosis, uniformity
 
-### Risultati Conforme/Non Conforme:
+### Risultati Classificazione Non Conforme(0) / Conforme(1):
 ![image](https://user-images.githubusercontent.com/30373288/219898862-ec3c7af7-4713-4228-a95e-5acc81e19d0c.png)
